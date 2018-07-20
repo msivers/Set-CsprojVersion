@@ -47,6 +47,7 @@
     <Version>1.2.1.27126</Version> updated to <Version>2.3.1</Version> 
 .NOTES
     Author: Michael Sivers
+    Url: https://github.com/msivers/Set-CsprojVersion
     Date:   29th July 2018
 #>
 
